@@ -1,0 +1,1 @@
+A PHP-based CRUD web application with user authentication. Users can register, log in, and manage personal posts (Create, Read, Update, Delete). Built using PHP, MySQL, and session management for login handling.
